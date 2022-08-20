@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/le-titan/static/css/main.c0b1553c.css",
-    "main.js": "/le-titan/static/js/main.2e8447ec.js",
-    "static/media/w1.gif": "/le-titan/static/media/w1.be9b81dda79e92f2b347.gif",
-    "static/media/w6.gif": "/le-titan/static/media/w6.068ac168918d0f775039.gif",
-    "static/media/w5.gif": "/le-titan/static/media/w5.f92b40920a2337678cbd.gif",
-    "static/media/w8.gif": "/le-titan/static/media/w8.9d2439a62f769a7055fe.gif",
-    "static/media/w4.gif": "/le-titan/static/media/w4.7b832e1b61eeec1316f2.gif",
-    "static/media/w2.gif": "/le-titan/static/media/w2.ba16ccae419eef3c77fc.gif",
-    "static/media/w0.gif": "/le-titan/static/media/w0.1235706c1a513da0e4be.gif",
-    "static/media/w7.gif": "/le-titan/static/media/w7.e518c54a096e23d21146.gif",
-    "static/media/w3.gif": "/le-titan/static/media/w3.a76e19a468e7f5344c83.gif",
-    "index.html": "/le-titan/index.html",
-    "main.c0b1553c.css.map": "/le-titan/static/css/main.c0b1553c.css.map",
-    "main.2e8447ec.js.map": "/le-titan/static/js/main.2e8447ec.js.map"
+    "main.css": "/Le-Titan/static/css/main.c0b1553c.css",
+    "main.js": "/Le-Titan/static/js/main.031fe4d6.js",
+    "static/media/w1.gif": "/Le-Titan/static/media/w1.be9b81dda79e92f2b347.gif",
+    "static/media/w6.gif": "/Le-Titan/static/media/w6.068ac168918d0f775039.gif",
+    "static/media/w5.gif": "/Le-Titan/static/media/w5.f92b40920a2337678cbd.gif",
+    "static/media/w8.gif": "/Le-Titan/static/media/w8.9d2439a62f769a7055fe.gif",
+    "static/media/w4.gif": "/Le-Titan/static/media/w4.7b832e1b61eeec1316f2.gif",
+    "static/media/w2.gif": "/Le-Titan/static/media/w2.ba16ccae419eef3c77fc.gif",
+    "static/media/w0.gif": "/Le-Titan/static/media/w0.1235706c1a513da0e4be.gif",
+    "static/media/w7.gif": "/Le-Titan/static/media/w7.e518c54a096e23d21146.gif",
+    "static/media/w3.gif": "/Le-Titan/static/media/w3.a76e19a468e7f5344c83.gif",
+    "index.html": "/Le-Titan/index.html",
+    "main.c0b1553c.css.map": "/Le-Titan/static/css/main.c0b1553c.css.map",
+    "main.031fe4d6.js.map": "/Le-Titan/static/js/main.031fe4d6.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b1553c.css",
-    "static/js/main.2e8447ec.js"
+    "static/js/main.031fe4d6.js"
   ]
 }
